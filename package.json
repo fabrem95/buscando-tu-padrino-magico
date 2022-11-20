@@ -1,0 +1,16 @@
+{
+	"name": "buscando-tu-padrino-magico",
+	"version": "0.0.1",
+	"description": "App donde se responden preguntas para registrarse como padrino magico o para que se le asigne uno al usuario",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2"
+	}
+}
