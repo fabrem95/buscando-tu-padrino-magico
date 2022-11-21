@@ -1,0 +1,194 @@
+{
+	"socialAptitudes": [
+		{
+			"value": 1,
+			"label": "Integrado/a  nato/a: les encanta pertenecer a clubes y suelen estar más contentos cuando están rodeados de sus amigos."
+		},
+		{
+			"value": 2,
+			"label": "Niñofóbico/a: se enfadan cuando tienen niños a su alrededor, se ponen tensos."
+		},
+		{
+			"value": 3,
+			"label": "Introvertido/a: prefiere relacionarse con pocas personas, suele ser mejor escuchando que hablando."
+		},
+		{
+			"value": 4,
+			"label": "Líder nato/a: aquel cuyo comportamiento es motivador, experimental y convocante para las personas. Lideran aún sin proponérselo"
+		},
+		{
+			"value": 5,
+			"label": "Adorable: les encanta relacionarse. Suelen ser comunicativos y no temen el vínculo con desconocidos."
+		},
+		{
+			"value": 6,
+			"label": "Independiente:  no son los mejores siguiendo ordenes, prefieren la libertad para darle rienda suelta a su imaginacion"
+		}
+	],
+	"foodTaste": [
+		{
+			"value": 1,
+			"label": "Chatarrero/a: come todo lo que no sea hecho en casa, cliente frecuente de cadenas de restaurantes de comida rápida"
+		},
+		{
+			"value": 2,
+			"label": "Caserito y saludable: verduras y alimentos directos de la cocina a la mesa con mucho amor."
+		},
+		{
+			"value": 3,
+			"label": "Dulcero/a: su mayor temor es la diabetes pues fan número uno de los postres con altos contenidos de azucar"
+		},
+		{
+			"value": 4,
+			"label": "Depredador compulsivo: ¿verduras? ¿qué es eso? carne que ve, carne que pasa por la parrilla."
+		},
+		{
+			"value": 5,
+			"label": "Quesero/a: aunque sea una piedra, si tiene queso se puede comer. Su temor es la intolerancia a la lactosa."
+		},
+		{
+			"value": 6,
+			"label": "Verde y natural: cliente frecuente de la feria en los fines de semana. Enemigos por excelencia con los depredadores compulsivos."
+		}
+	],
+	"musicTaste": [
+		{
+			"value": 1,
+			"label": "Rock and roll baby: toda música cuyos instrumentos requieran de corriente eléctrica para poguear intensamente"
+		},
+		{
+			"value": 2,
+			"label": "Cumbia y reggaeton: perreador profesional en las fiestas, no hay baile sin el/ ella."
+		},
+		{
+			"value": 3,
+			"label": "Melancólico/as  compulsivos/as: te lo/la encontrás un domingo lluvioso a la tarde estacionado frente a la rambla escuchando Abel Pintos."
+		},
+		{
+			"value": 4,
+			"label": "Pop queen/king: tiene un altar de Britney o Lady Gaga escondido en su casa."
+		},
+		{
+			"value": 5,
+			"label": "Samba do Brasil: lleva el carnval en sus venas y en sus pies el ritmo de los tambores."
+		},
+		{
+			"value": 6,
+			"label": "Rap/Trap star: rimando hasta en la ducha sin perder el flow."
+		}
+	],
+	"hobbies": [
+		{
+			"value": 1,
+			"label": "Amante del art atack: muy creativo/a y le encanta todo lo que pueda crear con sus manos"
+		},
+		{
+			"value": 2,
+			"label": "Bibliófilo/a: siempre con las narices en un libro, le encanta leer y estar informados"
+		},
+		{
+			"value": 3,
+			"label": "Tecno Gurú: vive en el mundo digital ya que se le da muy bien la tecnología"
+		},
+		{
+			"value": 4,
+			"label": "Gastrónomo/a: se divierten cuando comen buena comida, y les encanta probar nuevos platos."
+		},
+		{
+			"value": 5,
+			"label": "Deportista nato/a: persona muy activa, el tiempo libre siempre es para hacer ejercicio."
+		},
+		{
+			"value": 6,
+			"label": "Melómano: ama la música, ya sea estando todo el día escuchando nuevas melodías o tocando algún instrumento."
+		}
+	],
+	"favouriteSports": [
+		{
+			"value": 1,
+			"label": "Futbol"
+		},
+		{
+			"value": 2,
+			"label": "Tenis"
+		},
+		{
+			"value": 3,
+			"label": "Maratón de Netflix cuenta?"
+		}
+	],
+	"emotionals": [
+		{
+			"value": 1,
+			"label": "Mecha corta: un/a polvorita, tienden a enojarse puediendo exaltar a otros"
+		},
+		{
+			"value": 2,
+			"label": "Creativo/a: suelen tener ideas fuera de lo común cuando estan inspirados/as, disfrutan desarrollando su lado artístico."
+		},
+		{
+			"value": 3,
+			"label": "Payaso/a: suelen ser el/la de las bromas y comentarios graciosos"
+		},
+		{
+			"value": 4,
+			"label": "Arroz blanco: te acompaña todo"
+		},
+		{
+			"value": 5,
+			"label": "Alma de la fiesta: le das un reproductor de musica y un interruptor y te desvirtua hasta la misa. Del alcohol mejor ni hablemos"
+		}
+	],
+	"rtcInitiationReasons": [
+		{
+			"value": 1,
+			"label": "Este hermoso grupo"
+		},
+		{
+			"value": 2,
+			"label": "Por mi papá y los amigos que le dejo, y por el servicio a la comunidad"
+		},
+		{
+			"value": 3,
+			"label": "La posibilidad de ayudar en grupo"
+		},
+		{
+			"value": 4,
+			"label": "Vínculos"
+		},
+		{
+			"value": 5,
+			"label": "Me anotó un amigo"
+		},
+		{
+			"value": 6,
+			"label": "Voluntariado"
+		}
+	],
+	"oddparentTypes": [
+		{
+			"value": 1,
+			"label": "Cosmo: no es el mas brillante y es un poco torpe, pero muy carismatico, no tiene mucho afan por molestarse, es muy dificil que el lo haga. No le gusta que la gente sea negativa. Tiene una forma de ser muy interesante. Es muy leal a sus seres queridos y gente de confianza."
+		},
+		{
+			"value": 2,
+			"label": "Wanda: brillante, responsable y compasiva. Ella normalmente es la que arregla todos los desastres que los demas desatan. Que hariamos sin Wanda?"
+		},
+		{
+			"value": 3,
+			"label": "Poof: tierno y adorable, Poof derrite los corazones de todos a quienes conoce, aunque sus habilidades de comunicacion no son las mejores 'poof'"
+		},
+		{
+			"value": 4,
+			"label": "Jorgen: con una cobertura de acero Jorgen aparenta ser duro e implacable, siempre dispuesto a hacer cumplir las reglas, pero aquellos que lo conocen saben que por dentro lleva un relleno tierno y compasivo"
+		},
+		{
+			"value": 5,
+			"label": "Dr. Rip Studwell: no importa si lo ves en una fiesta de gala o recien levantado, tiene la asombrosa habilidad de verse siempre impecable. Por otro lado, no importa el lugar, la situacion o la hora, siempre esta ahi para ayudar y curar a sus compañeros."
+		},
+		{
+			"value": 6,
+			"label": "Mama Cosma: la mama del grupo. Dulce, gentil y cariñosa, siempre cuidando a sus polluelos, pero que esto  no te engañe, si algo o alguien amenaza su relacion o la seguridad de sus protegidos se vuelve un poco maliciosa debido a su caracter protector"
+		}
+	]
+}
