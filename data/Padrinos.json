@@ -1,0 +1,80 @@
+[
+	{
+		"id": 1,
+		"name": "Facundo",
+		"lastName": "Bremermann",
+		"socialAptitudes": 1,
+		"foodTaste": 5,
+		"musicTaste": 1,
+		"hobbies": 3,
+		"favouriteSport": 1,
+		"emotional": 4,
+		"rtcInitiationReason": 1,
+		"oddparentType": 2
+	},
+	{
+		"id": 2,
+		"name": "Ana Paula",
+		"lastName": "Severo",
+		"socialAptitudes": 1,
+		"foodTaste": 3,
+		"musicTaste": 4,
+		"hobbies": 6,
+		"favouriteSport": 1,
+		"emotional": 4,
+		"rtcInitiationReason": 2,
+		"oddparentType": 2
+	},
+	{
+		"id": 3,
+		"name": "Pau",
+		"lastName": "Casterá",
+		"socialAptitudes": 6,
+		"foodTaste": 6,
+		"musicTaste": 2,
+		"hobbies": 1,
+		"favouriteSport": 3,
+		"emotional": 2,
+		"rtcInitiationReason": 3,
+		"oddparentType": 6
+	},
+	{
+		"id": 4,
+		"name": "Roberto",
+		"lastName": "Reina",
+		"socialAptitudes": 4,
+		"foodTaste": 4,
+		"musicTaste": 1,
+		"hobbies": 4,
+		"favouriteSport": 1,
+		"emotional": 2,
+		"rtcInitiationReason": 4,
+		"oddparentType": 4
+	},
+	{
+		"id": 5,
+		"name": "Sebastián",
+		"lastName": "Rijo",
+		"socialAptitudes": 6,
+		"foodTaste": 2,
+		"musicTaste": 1,
+		"hobbies": 4,
+		"favouriteSport": 1,
+		"emotional": 2,
+		"rtcInitiationReason": 5,
+		"oddparentType": 3
+	},
+	{
+		"id": 6,
+		"name": "Camilo (Manolo)",
+		"lastName": "Perdomo",
+		"socialAptitudes": 5,
+		"foodTaste": 3,
+		"musicTaste": 2,
+		"hobbies": 6,
+		"favouriteSport": 2,
+		"emotional": 5,
+		"rtcInitiationReason": 6,
+		"oddparentType": 6
+	}
+]
