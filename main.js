@@ -47,7 +47,31 @@ app.put("/putFormEnums", function (req, res) {
 
 //TODO: Agregar imagen a DB de padrinos
 
-//TODO: Crear endpoint para crear padrino
+//TODO: Probar endpoint para crear padrino
+app.post("/createPadrino", function (req, res) {
+	try {
+
+		const FormEnums = JSON.parse(
+			fs.readFileSync(__dirname + "/data/FormEnums.json")
+		);
+		const Padrinos = JSON.parse(
+			fs.readFileSync(__dirname + "/data/Padrinos.json")
+		);
+
+		req.body.id = Padrinos.length + 1
+
+		// FormEnums.favouriteSports.push(req.body);
+		Padrinos.push(req.body)
+
+		console.log(Padrinos)
+
+		// fs.writeFileSync(__dirname + "/data/FormEnums.json", JSON.stringify(FormEnums))
+
+		res.end();
+	} catch (error) {
+		console.log(error);
+	}
+});
 
 app.post("/requestPadrino", function (req, res) {
 	try {
