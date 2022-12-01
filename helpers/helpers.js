@@ -20,10 +20,10 @@ function MostOcurrentInArray(givenArray) {
 		}
 
 		//5
-		if (itemsMap[item] >= maxCount) {
+		if (itemsMap[item] >= maxCount && !maxValues.includes(item)) {
 			maxValues.push(item);
-			maxCount = itemsMap[item];
 		}
+		if (itemsMap[item] > maxCount) maxCount = itemsMap[item];
 	}
 
 	maxValue = getRandomArbitrary(maxValues)
