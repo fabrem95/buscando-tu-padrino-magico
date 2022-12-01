@@ -6,8 +6,9 @@
 function MostOcurrentInArray(givenArray) {
 	// 2
 	let itemsMap = {};
-	let maxValue = 0;
+	let maxValues = [];
 	let maxCount = 0;
+	let maxValue = 0;
 
 	// 3
 	for (let item of givenArray) {
@@ -19,14 +20,20 @@ function MostOcurrentInArray(givenArray) {
 		}
 
 		//5
-		if (itemsMap[item] > maxCount) {
-			maxValue = item;
+		if (itemsMap[item] >= maxCount) {
+			maxValues.push(item);
 			maxCount = itemsMap[item];
 		}
 	}
 
+	maxValue = getRandomArbitrary(maxValues)
+
 	// 6
 	return maxValue;
+}
+
+function getRandomArbitrary(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
 }
 
 module.exports = {

@@ -117,3 +117,5 @@ app.get("*", function (req, res) {
 app.listen(process.env.PORT, () =>
 	console.log(`Listening port: ${process.env.PORT}`)
 );
+
+MostOcurrentInArray([])
