@@ -168,27 +168,33 @@
 	"oddparentTypes": [
 		{
 			"value": 1,
-			"label": "Cosmo: no es el mas brillante y es un poco torpe, pero muy carismatico, no tiene mucho afan por molestarse, es muy dificil que el lo haga. No le gusta que la gente sea negativa. Tiene una forma de ser muy interesante. Es muy leal a sus seres queridos y gente de confianza."
+			"label": "Cosmo: no es el mas brillante y es un poco torpe, pero muy carismatico, no tiene mucho afan por molestarse, es muy dificil que el lo haga. No le gusta que la gente sea negativa. Tiene una forma de ser muy interesante. Es muy leal a sus seres queridos y gente de confianza.",
+			"img": "https://lh6.googleusercontent.com/EO2OvwHmbR7DG5AhZQyoBWpx_kpitljw60vCE-4g1ObSKyPpLXOoIqZsz-9N_ukYTaj5Jikm84wEMpUGtWbXJ5kCQUjmf_eVTaLq7aEM0YsUB5UXjLg2Yq7uVcWyzWVeNQMlR8LLQXOyHK60wyz3zH0NNkHolKKPQm6Ah-BaK0Da1x3dI8fVNDGBQzXz_o0zVPuK"
 		},
 		{
 			"value": 2,
-			"label": "Wanda: brillante, responsable y compasiva. Ella normalmente es la que arregla todos los desastres que los demas desatan. Que hariamos sin Wanda?"
+			"label": "Wanda: brillante, responsable y compasiva. Ella normalmente es la que arregla todos los desastres que los demas desatan. Que hariamos sin Wanda?",
+			"img": "https://lh5.googleusercontent.com/R3rDpqo22KI9iEokg3H0TwTjj2TZkDwgRtOuB_0hI5EBMqHOzd7oOI_w2LvLWPiS_fbix4s8S7UQe-cP8YWzt-PxQPeJ2N-zrB8WkpNqJLBAwIBuOG8Cz4BaP9bWmXytYnK0IbaUujtqUm1JOUO0skBxu9YMlBIilPtCj3UWylpcPgvWy0La9tlnBrkFEkeiFeya"
 		},
 		{
 			"value": 3,
-			"label": "Poof: tierno y adorable, Poof derrite los corazones de todos a quienes conoce, aunque sus habilidades de comunicacion no son las mejores 'poof'"
+			"label": "Poof: tierno y adorable, Poof derrite los corazones de todos a quienes conoce, aunque sus habilidades de comunicacion no son las mejores 'poof'",
+			"img": "https://lh5.googleusercontent.com/7j8atylVBNQk_Mopk3BYUdwZou3EAocFH00PS7t2JtlBSTKNZJvpG4WdSTaEN1DaMZwEze_8Ti7OMu-TbXtQogFey8LZnyIhuMe_Y4FfWVXlHtUlPcA6l6uPhVFYjCWKTvgm8A0RqpqRLdDyMK9ZzyLCz4-JVtZ0gSjdm448oNy-E6WOKvtwfRrKLGn5dCmpaTd1"
 		},
 		{
 			"value": 4,
-			"label": "Jorgen: con una cobertura de acero Jorgen aparenta ser duro e implacable, siempre dispuesto a hacer cumplir las reglas, pero aquellos que lo conocen saben que por dentro lleva un relleno tierno y compasivo"
+			"label": "Jorgen: con una cobertura de acero Jorgen aparenta ser duro e implacable, siempre dispuesto a hacer cumplir las reglas, pero aquellos que lo conocen saben que por dentro lleva un relleno tierno y compasivo",
+			"img": "https://lh4.googleusercontent.com/tOtoGxQMUSKJOsSF9b0NZWsMg933A-iVC12NRW6WBud-ahqNRbOVe4veuZ8rID5VsSqPodocB-FJHJJ1x1ClRK4Vdd90aqz9j4Ui1SdxKainjh3uZazYvgcaRMyMMx9WhlJ67hE7k6AqclvfBxkj0NR623p8-chuwckdYwlY-QQx8UD4ylGaTTShJrLbo2cvJz56"
 		},
 		{
 			"value": 5,
-			"label": "Dr. Rip Studwell: no importa si lo ves en una fiesta de gala o recien levantado, tiene la asombrosa habilidad de verse siempre impecable. Por otro lado, no importa el lugar, la situacion o la hora, siempre esta ahi para ayudar y curar a sus compañeros."
+			"label": "Dr. Rip Studwell: no importa si lo ves en una fiesta de gala o recien levantado, tiene la asombrosa habilidad de verse siempre impecable. Por otro lado, no importa el lugar, la situacion o la hora, siempre esta ahi para ayudar y curar a sus compañeros.",
+			"img": "https://lh5.googleusercontent.com/4xSPRMpkW6DW2bx4ZSGWLOD8KVjwfUNUnwqTZVJXDCVcn001-4pNJ82kpj0VCiZMNSqmrFbKlQjbcytsUv7zIdu2DL9TIkuIG9DJk9MAlb0rvK71ERiC1OpyWQxVNOK830-UcmjUR0W4t5MKKxv-t-VIee0P4Bl4QCxVuHHBoyPGrmwTPCGCaoSF3ZUC8h5YKYnP"
 		},
 		{
 			"value": 6,
-			"label": "Mama Cosma: la mama del grupo. Dulce, gentil y cariñosa, siempre cuidando a sus polluelos, pero que esto  no te engañe, si algo o alguien amenaza su relacion o la seguridad de sus protegidos se vuelve un poco maliciosa debido a su caracter protector"
+			"label": "Mama Cosma: la mama del grupo. Dulce, gentil y cariñosa, siempre cuidando a sus polluelos, pero que esto  no te engañe, si algo o alguien amenaza su relacion o la seguridad de sus protegidos se vuelve un poco maliciosa debido a su caracter protector",
+			"img": "https://lh4.googleusercontent.com/RMeML0F497e755XbHgpd8cbdvAuPRzLew8RThoHIf4mKximtZ-pDmJRMUF772s5EUYX6y34phtmtNNpWT_3asCl33A9qs7qZpbcmXQMDnPgLfUQS6YR7M4x7TgWH73pts4HtAqKEzR-9ry-jYnpLthG_VN1_r_r2yElwsg2sTPKofm53zXncmQboGcQdPD1wpe8P"
 		}
 	]
 }
